@@ -1,0 +1,24 @@
+body{
+    background: #f1f1f1;
+}
+
+div{
+    width: 700px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+p{
+    width: 600px;
+    margin: 50px auto;
+}
+
+button{
+    width: 150px;
+    height: 40px;
+    background: pink;
+    border: 1px solid rebeccapurple;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
